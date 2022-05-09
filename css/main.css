@@ -39,6 +39,11 @@ header h1 {
     padding: 65px 0 65px 25px;
 }
 
+header h1 a {
+    text-decoration: none;
+    color: #bbc085;
+}
+
 nav {
     float: right;
     padding: 75px 25px;
